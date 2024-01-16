@@ -1,4 +1,4 @@
-# Asistan Konuştuktan 1 Saniye  Sonra Sizde Konuşun, Yoksa Sizi Anlamayacaktır
+# Asistan Konuştuktan 1 Saniye  Sonra Siz Konuşun, Yoksa Sizi Anlamayacaktır
 import os
 import sys
 import random 

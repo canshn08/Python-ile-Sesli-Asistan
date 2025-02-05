@@ -1,2 +1,1 @@
-
-Sesli Asistan
+Desktop assistant trial
